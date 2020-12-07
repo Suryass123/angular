@@ -1,7 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
-//import hai hai
+//import hai hai hai hai
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
